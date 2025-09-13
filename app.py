@@ -9,7 +9,7 @@ BOT_TOKEN = "8324595920:AAG52dCic01MFnolDrlVn_s-_nmEHvhBO3w"  # замените
 OWNER_WALLET = "UQCYyfyGwxNT9QjICDeBvxxQ3uTv3hvehuK4UcyDbU-c38at"  # замените на ваш кошелек TON
 
 # После деплоя на Render замените на URL вашего сервиса, например:
-NGROK_URL = "https://your-app-name.onrender.com"
+NGROK_URL = "https://telegram-balloon-game.onrender.com"
 
 # ------------------- FLASK APP -------------------
 app = Flask(__name__)
