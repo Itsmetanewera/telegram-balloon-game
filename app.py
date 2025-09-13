@@ -116,5 +116,5 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     ]
     await update.message.reply_text(
         "Добро пожаловать! Покупай шарики за TON и играй 🎮",
-        reply_markup=InlineKeyboardMarku_
+        reply_markup=InlineKeyboardMarku_)
 
